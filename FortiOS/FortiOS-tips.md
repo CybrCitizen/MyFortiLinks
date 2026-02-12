@@ -77,3 +77,10 @@
     </details>
 
 - [Doc: Multitenancy, VDOMS and Fortiswitches](https://docs.fortinet.com/document/fortiswitch/latest/fortilink-guide/801172)
+
+
+### System optimisation
+
+- [Technical Tip: Low-end FortiGate models with RAM ≤ 2GB entering conserve mode due to increased ISDB database](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Low-end-FortiGate-models-with-RAM-2GB-entering/ta-p/295489)
+- [Technical Tip: How to optimize memory consumption for smaller FortiGates (<200F)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-optimize-memory-consumption-for-smaller/ta-p/192323)
+- [Technical Tip: Memory Optimization Script for FortiGate Desktop Devices](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Memory-Optimization-Script-for-FortiGate-Desktop/ta-p/285711)
