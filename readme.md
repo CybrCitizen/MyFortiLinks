@@ -13,6 +13,7 @@ All content is public only, some are from [Fortinet Documentation website](https
 - [FortiNAC related](./FortiNAC/FortiNAC-tips.md)
 - [FortiEDR related](./FortiEDR/FortiEDR-tips.md)
 - [FortiAIOps related](./FortiAIOps/FortiAIOps-tips.md)
+- [FortiAP related](./FortiAP/FortiAP-tips.md)
 
    
    
