@@ -46,7 +46,7 @@
     Note : if GenAI DB is not up to date, reason could be you have no app control profile enabled on any FW Policy : enable at least one FW rule with App control profile enabled
     </details>
 - [Technical Tip: Blocking Chat GPT](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Blocking-Chat-GPT/ta-p/255020)
-
+- [Doc: AI and ML-based IPS detection (7.6.3+)](https://docs.fortinet.com/document/fortigate/7.6.0/new-features/408891/ai-and-ml-based-ips-detection-7-6-3)
 
 ### 802.1x
 
