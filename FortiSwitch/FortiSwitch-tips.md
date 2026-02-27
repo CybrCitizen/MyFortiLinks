@@ -120,6 +120,10 @@
     </details>
 
 
+
+
+ 
+
 ## Central Management
 
 ### FortiManager
@@ -127,3 +131,19 @@
 - [Doc: Using Zero Touch Provisioning to deploy FortiSwitches](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/691811/using-zero-touch-deployment-for-fortiswitch)
 - [Doc: Using FortiSwitch Templates in Central Management](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/318435/fortiswitch-templates-for-central-management)
 - [Doc: Configuring FortiSwitch Profiles for per-device management](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/123967/fortiswitch-profiles-for-per-device-management)
+
+
+## Troubleshooting
+
+### FortiSwitch managed by Fortigate
+ -  <details>
+    <summary>Get MAC@ on a Fortiswitch Port (FGT Managed)</summary>
+
+        Clear filter:
+        (FGT)# diagnose switch-controller mac-cache filter clear
+        Create Filter:
+        (FGT)# diagnose switch-controller mac-cache filter intf-name
+        Show MAC:
+        (FGT)# diagnose switch-controller mac-cache show <switch>
+    https://docs.fortinet.com/document/fortigate/7.6.6/cli-reference/218433386/diagnose-switch-controller#diagnose_switch-controller_mac-cache_show_switch-controller
+    </details>
