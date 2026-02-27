@@ -135,7 +135,15 @@
 
 ## Troubleshooting
 
-### FortiSwitch managed by Fortigate
+### STP
+[DOC: Configuring STP settings](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173292/configuring-stp-settings)
+ -  <details>
+    <summary>Get STP port status</summary>
+
+        (FGT)# diag switch-controller switch-info stp <switch> <instanceID>
+    https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173292/configuring-stp-settings
+    </details>
+### MAC@
  -  <details>
     <summary>Get MAC@ on a Fortiswitch Port (FGT Managed)</summary>
 
@@ -146,4 +154,13 @@
         Show MAC:
         (FGT)# diagnose switch-controller mac-cache show <switch>
     https://docs.fortinet.com/document/fortigate/7.6.6/cli-reference/218433386/diagnose-switch-controller#diagnose_switch-controller_mac-cache_show_switch-controller
+    </details>
+
+### FortiLinkNAC
+ -  <details>
+    <summary>Get NAC devices known on FGT</summary>
+
+        (FGT)# diagnose switch-controller mac-device nac known
+        (FGT)# diagnose switch-controller mac-device nac onboarding
+
     </details>
