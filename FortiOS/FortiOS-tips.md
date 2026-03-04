@@ -2,8 +2,8 @@
 
 ### FortiGate CheatSheets
 
-- [Boll.ch CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
-- [InfosecMonkey.com CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
+- [External] [Boll.ch CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
+- [External] [InfosecMonkey.com CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
 - [My CLI Cheatsheet](./FortiOS-cli.md)
 
 
@@ -13,6 +13,14 @@
 
 - [Technical Tip: Recommended Release for FortiOS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178)
 - [Technical Tip: Recommended Release for FortiManager and FortiAnalyzer](https://community.fortinet.com/t5/FortiManager/Technical-Tip-Recommended-Release-for-FortiManager-and/ta-p/231910)
+
+
+
+### Management Access
+
+- [External] [blog.guenay.at: Using Local-in policies to restrict access to Management interface](https://github.com/KevinGuenay/fortigate-baseline/blob/main/baseline.md#use-local-in-policies-to-restrict-access-to-management-services)
+
+
 
 ### Logging
 
@@ -68,13 +76,14 @@
 - [Doc: Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/32293/general-configurations)
     <details>
     <summary>Example of VDOM</summary>
-    
+        
         (FGT)# 
         config system global
             set vdom-mode multi-vdom
             set edit-vdom-prompt enable
         end
     </details>
+
 
 - [Doc: Multitenancy, VDOMS and Fortiswitches](https://docs.fortinet.com/document/fortiswitch/latest/fortilink-guide/801172)
 
