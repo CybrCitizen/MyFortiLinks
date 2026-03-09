@@ -9,10 +9,11 @@
 
 
 
-### Recommended versions
+### Recommended versions & Best practice
 
 - [Technical Tip: Recommended Release for FortiOS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178)
 - [Technical Tip: Recommended Release for FortiManager and FortiAnalyzer](https://community.fortinet.com/t5/FortiManager/Technical-Tip-Recommended-Release-for-FortiManager-and/ta-p/231910)
+- [Technical Tip: Best practices for firewall policy configuration](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Best-practices-for-firewall-policy-configuration/ta-p/193255)
 
 
 
@@ -97,3 +98,4 @@
 - [Technical Tip: Low-end FortiGate models with RAM ≤ 2GB entering conserve mode due to increased ISDB database](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Low-end-FortiGate-models-with-RAM-2GB-entering/ta-p/295489)
 - [Technical Tip: How to optimize memory consumption for smaller FortiGates (<200F)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-optimize-memory-consumption-for-smaller/ta-p/192323)
 - [Technical Tip: Memory Optimization Script for FortiGate Desktop Devices](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Memory-Optimization-Script-for-FortiGate-Desktop/ta-p/285711)
+- [Doc: Inspection mode feature comparison](https://docs.fortinet.com/document/fortigate/latest/administration-guide/922096/inspection-mode-feature-comparison)
