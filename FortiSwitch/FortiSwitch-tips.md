@@ -164,3 +164,9 @@
         (FGT)# diagnose switch-controller mac-device nac onboarding
 
     </details>
+
+
+### Voice & Fortiswitch
+- [Doc: Voice device detection](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173295/voice-device-detection)
+- [Technical Tip: Managed FortiSwitch LLDP voice VLAN auto tagging](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Managed-FortiSwitch-LLDP-voice-VLAN-auto-tagging/ta-p/245678)
+- [Doc: Configuring LLDP profiles](https://docs.fortinet.com/document/fortiswitch/7.2.10/administration-guide/585566/configuring-lldp-profiles)
