@@ -170,3 +170,21 @@
 - [Doc: Voice device detection](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173295/voice-device-detection)
 - [Technical Tip: Managed FortiSwitch LLDP voice VLAN auto tagging](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Managed-FortiSwitch-LLDP-voice-VLAN-auto-tagging/ta-p/245678)
 - [Doc: Configuring LLDP profiles](https://docs.fortinet.com/document/fortiswitch/7.2.10/administration-guide/585566/configuring-lldp-profiles)
+- To expedite the switch controller to run the dynamic ports policy set the interval to be more frequent. By default, it runs every 60 seconds. The range of values is 5-180 seconds.
+    ~~~
+    config switch-controller system
+        set dynamic-periodic-interval <5-180 seconds>
+    ~~~
+
+- Troubleshooting: The most useful command while troubleshooting DPP dynamic port policies application to switch port is :
+    ~~~
+    diagnose switch-controller mac-device dynamic
+    ~~~
+- Troubleshooting: The most useful command while troubleshooting NAC to switch port is :
+    ~~~
+    diagnose switch-controller mac-device nac
+    ~~~
+- To check device MAC, port and Vlan assignement 
+    ~~~~
+    diagnose switch-controller mac-device cache
+    ~~~~
