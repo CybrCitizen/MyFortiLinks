@@ -4,6 +4,14 @@
 - [Technical Tip: Comprehensive guide for a simple FortiNAC deployment](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-Comprehensive-guide-for-a-simple-FortiNAC/ta-p/264051)
 - [Doc: Integrate FortiNAC with Fortinet FortiSwitch and FortiGate](https://docs.fortinet.com/document/fortinac-f/latest/fortiswitch-fortilink-integration/365563/overview)
 - [Doc: Integrate FortiNAC with Fortinet FortiAP and FortiGate](https://docs.fortinet.com/document/fortinac-f/latest/fortiap-integration/335351/overview)
+- [Technical Tip: How to add a license to FortiNAC-F 7.x from the CLI](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-How-to-add-a-license-to-FortiNAC-F-7-from-the-CLI/ta-p/271120) | to be done via SSH / The GUI should be available after 10 to 15 minutes
+  ~~~~
+  execute license add <license file contents>
+  execute service stop nacapplication
+  execute service start nacapplication
+  get system license
+  get system status
+  ~~~~
 
 
 ### FortiNAC Guest
