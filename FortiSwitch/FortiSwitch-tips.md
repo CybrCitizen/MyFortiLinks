@@ -188,3 +188,8 @@
     ~~~~
     diagnose switch-controller mac-device cache
     ~~~~
+- [Technical Tip: FortiAuthenticator MAC Address Bypass (MAB) implementation](https://community.fortinet.com/t5/FortiAuthenticator/Technical-Tip-FortiAuthenticator-MAC-Address-Bypass-MAB/ta-p/212588)
+
+### Sticky MAC@
+- [Technical Tip: Sticky-MAC-behavior-in-FortiSwitches](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Explaining-Sticky-MAC-behavior-in-FortiSwitches/ta-p/196779)
+- [Doc: persistent-sticky-mac-addresses](https://docs.fortinet.com/document/fortiswitch/7.2.10/administration-guide/287006/persistent-sticky-mac-addresses)

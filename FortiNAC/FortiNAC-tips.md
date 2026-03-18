@@ -2,6 +2,8 @@
 
 ### FortiNAC initial setup
 - [Technical Tip: Comprehensive guide for a simple FortiNAC deployment](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-Comprehensive-guide-for-a-simple-FortiNAC/ta-p/264051)
+- [FortiNAC "Isolation Vlan concepts"](https://docs.fortinet.com/document/fortinac-f/7.2.0/fortinac-deployment-guide/707033/fortinac-isolation-vlans)
+- [Doc: Detailed description of Isolation states](https://docs.fortinet.com/document/fortinac-f/7.6.0/configuration-wizard/369359/layer-3-network#_Toc174456391)
 - [Doc: Integrate FortiNAC with Fortinet FortiSwitch and FortiGate](https://docs.fortinet.com/document/fortinac-f/latest/fortiswitch-fortilink-integration/365563/overview)
 - [Doc: Integrate FortiNAC with Fortinet FortiAP and FortiGate](https://docs.fortinet.com/document/fortinac-f/latest/fortiap-integration/335351/overview)
 - [Technical Tip: How to add a license to FortiNAC-F 7.x from the CLI](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-How-to-add-a-license-to-FortiNAC-F-7-from-the-CLI/ta-p/271120) | to be done via SSH / The GUI should be available after 10 to 15 minutes
@@ -29,4 +31,4 @@
 
 ### Special use case
 - [Doc: Docking Station Management](https://docs.fortinet.com/document/fortinac-f/latest/docking-station-management/685335/docking-station-management)
-
+- [Doc: Voice vlan using FortiNAC](https://docs.fortinet.com/document/fortinac-f/7.2.0/ip-phone-integration/65140/appendix)
