@@ -32,6 +32,7 @@
 - [Technical Tip: How to configure logging to disk on the FortiGate using the GUI or the CLI](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-logging-to-disk-on-the-FortiGate/ta-p/216995)
 - [Technical Tip: Hard disk utilization by the FortiGate](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Hard-disk-utilization-by-the-FortiGate/ta-p/195481)
 - [Troubleshooting Tip: FortiGate to FortiAnalyzer connectivity](https://community.fortinet.com/t5/FortiAnalyzer/Troubleshooting-Tip-FortiGate-to-FortiAnalyzer-connectivity/ta-p/191833)
+- [Technical Tip: Null device logging - allow to estimate the logging amount per day easily](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Null-device-logging/ta-p/338478)
 
 
 ### Access internal ressources from Outside
