@@ -6,8 +6,7 @@
 - [Doc: CAPWAP hitless failover using FGCP](https://docs.fortinet.com/document/fortiap/7.6.5/fortiwifi-and-fortiap-configuration-guide/915013/capwap-hitless-failover-using-fgcp)
 
 
-### FortiAP & Authentication
-- [Doc: FortiAuthenticator as a Wireless Guest Portal for FortiGate](https://docs.fortinet.com/document/fortiauthenticator/6.6.0/examples/578250/fortiauthenticator-as-a-wireless-guest-portal-for-fortigate)
+
 
 
 ### FortiAP BLE/iBeacon/Eddystone
