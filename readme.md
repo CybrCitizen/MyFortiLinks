@@ -16,6 +16,6 @@ All content is public only, some are from [Fortinet Documentation website](https
 - [FortiAIOps related](./FortiAIOps/FortiAIOps-tips.md)
 - [FortiAP related](./FortiAP/FortiAP-tips.md)
 - [FortiPAM related](./FortiPAM/FortiPAM-tips.md)
-
+- [FortiClient related](./FortiClient/FortiClient-tips.md)
    
    
