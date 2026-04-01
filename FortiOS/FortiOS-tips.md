@@ -2,8 +2,8 @@
 
 ### FortiGate CheatSheets
 
-- [External] [Boll.ch CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
-- [External] [InfosecMonkey.com CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
+- [External] [Boll.ch: CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
+- [External] [InfosecMonkey.com: CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
 - [My CLI Cheatsheet](./FortiOS-cli.md)
 
 
@@ -49,6 +49,7 @@
 - [Technical Tip: How to block IPsec fail connection attempts over a blacklist (ESP IKEv1 or IKEv2, Phase 1 mismatch config and authentication failure)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-block-IPsec-fail-connection-attempts-over-a/ta-p/411328)
 - [Doc: Windows IKEv2 native VPN with user certificate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/726232)
 - [Doc: Trusted Endpoint SSO](https://docs.fortinet.com/document/fortiauthenticator/8.0.0/iam-architecture-guide/713052/trusted-endpoint-sso)
+- [External] [Andrew Travis: IPSec VPN with SAML auth](https://www.andrewtravis.com/blog/ipsec-vpn-with-saml)
 
 ### GenAI & LLM related Features
 
