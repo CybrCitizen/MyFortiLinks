@@ -25,7 +25,11 @@
 
 ## Fortilink
 
-### Fortilink Tips
+### Fortilink over Third party switches
+- [Technical Tip: Configuring FortiLink over 3rd party switches with L2 connectivity with the FortiGate](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Configuring-FortiLink-over-3rd-party-switches-with/ta-p/434703)
+
+
+### Fortilink over Layer3
 - [Doc: Fortiswitch connected to a FGT "behind" a Layer 3 device/MPLS : FoL3](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801182/fortilink-mode-over-a-layer-3-network)
 - [Doc: Fortilink over Layer3 (FoL3) limitations](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801182/fortilink-mode-over-a-layer-3-network#:~:text=is%20not%20supported.-,Limitations,-The%20following%20limitations)
 
@@ -80,7 +84,11 @@
         (FGT)# get switch modules status <port#>
   </details>
 
-### Troubleshooting Commands
+## MCLAG and Third party
+- [Technical Tip: Configuring LACP interface between FSW MCLAG peers to a third-party switch](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Configuring-LACP-interface-between-MCLAG-peers-on/ta-p/412522
+)
+
+## Troubleshooting Commands
 
  -  <details>
     <summary>Get 802.1x status of a Port on FortiSwitch Managed by FortiGate</summary>
