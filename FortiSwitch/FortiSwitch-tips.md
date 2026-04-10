@@ -2,7 +2,7 @@
 
 ## FortiSwitch
 
-## FortiLink
+## Initial setup - Switch discovery
 - Initial setup of a FortiSwitch using FortiLink: 
     - Factory reset your FGT 
         - Or configure Fortilink interface IP + dhcp server + in advanced settings set ntp server to be the local FGT
@@ -10,6 +10,8 @@
     - Connect a FSW on fortilink FGT enabled ports (A/B/X), FSW should come up as unauthorized using an IP of the FortiLink dhcp Range
     - In Wifi&Switch controller > Managed FortiSwitches > Authorize the switch and wait, it should come back green in a minute
     - Setup & Relax !
+ 
+
 
 ## Network Design tips
 - [Doc: Determining the network topology](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/617516/determining-the-network-topology)
@@ -18,17 +20,14 @@
 - [Doc: Multi-tiered MCLAG with HA-mode FortiGate units](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801194/deploying-mclag-topologies#Three-ti)
 - [Doc: Large Campus Deployment Guide](https://docs.fortinet.com/document/fortiswitch/7.6.0/large-campus-deployment-guide/688440/deployment-overview)
 
-## Transcievers & SFP
-- [Troubleshooting Tip: SFP/SFP+ transceivers port/fiber link is not coming up](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-SFP-SFP-transceivers-port-fiber-link-is-not/ta-p/193940)
-- [Technical Tip: How to get details of a transceiver connected in a managed FortiSwitch from the FortiGate CLI](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-get-details-of-a-transceiver-connected-in-a/ta-p/348457)
-- <details>
-  <summary>Get RX power of an sfp from Switch CLI</summary>
-  
-        (FGT)# get switch modules status <port#>
-  </details>
+
 
 
 ## Fortilink
+
+### Fortilink Tips
+- [Doc: Fortiswitch connected to a FGT "behind" a Layer 3 device/MPLS : FoL3](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801182/fortilink-mode-over-a-layer-3-network)
+- [Doc: Fortilink over Layer3 (FoL3) limitations](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801182/fortilink-mode-over-a-layer-3-network#:~:text=is%20not%20supported.-,Limitations,-The%20following%20limitations)
 
 ### Fortilink NAC
 - [Doc: Deployment procedures : Using EMS-tag NAC policies](https://docs.fortinet.com/document/fortiswitch/7.6.0/large-scale-multi-site-fortilink-nac-deployment-guide/674026/deployment-procedures#Example4)
@@ -72,6 +71,14 @@
         end
     </details>
 
+## Transcievers & SFP
+- [Troubleshooting Tip: SFP/SFP+ transceivers port/fiber link is not coming up](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-SFP-SFP-transceivers-port-fiber-link-is-not/ta-p/193940)
+- [Technical Tip: How to get details of a transceiver connected in a managed FortiSwitch from the FortiGate CLI](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-get-details-of-a-transceiver-connected-in-a/ta-p/348457)
+- <details>
+  <summary>Get RX power of an sfp from Switch CLI</summary>
+  
+        (FGT)# get switch modules status <port#>
+  </details>
 
 ### Troubleshooting Commands
 
