@@ -149,16 +149,26 @@
 - [Doc: Configuring FortiSwitch Profiles for per-device management](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/123967/fortiswitch-profiles-for-per-device-management)
 
 
-## Troubleshooting
 
-### STP
-[DOC: Configuring STP settings](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173292/configuring-stp-settings)
- -  <details>
+### Spanning Tree
+
+- [Technical Tip : Spanning Tree Protocols on FortiSwitch](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Spanning-Tree-Protocols-on-FortiSwitch/ta-p/274959)
+- [Doc: Configuring STP settings](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173292/configuring-stp-settings)
+- [Technical Tip: Configure STP priority using 'custom-command 'on FortiGate](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Configure-STP-priority-using-custom-command-on/ta-p/195141)
+
+-  <details>
     <summary>Get STP port status</summary>
 
         (FGT)# diag switch-controller switch-info stp <switch> <instanceID>
     https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/173292/configuring-stp-settings
     </details>
+- [Troubleshooting Tip: STP Convergence Between FortiSwitch and Cisco Switches (MSTP and RPVST+)](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-STP-Convergence-Between-FortiSwitch-and/ta-p/370301)
+- [Doc: Support for interoperation with Rapid per-VLAN RSTP (Rapid PVST+ or RPVST+)](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortiswitchos-administration-guide/364618/support-for-interoperation-with-rapid-per-vlan-rstp-rapid-pvst-or-rpvst)
+- [Technical Tip: Number of access VLANs supported with Rapid PVST+ or RPVST+](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Number-of-access-VLANs-supported-with-Rapid-PVST/ta-p/190386)
+
+## Troubleshooting
+
+
 ### MAC@
  -  <details>
     <summary>Get MAC@ on a Fortiswitch Port (FGT Managed)</summary>
