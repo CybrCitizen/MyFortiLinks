@@ -97,6 +97,12 @@
 - [Doc: Multitenancy, VDOMS and Fortiswitches](https://docs.fortinet.com/document/fortiswitch/latest/fortilink-guide/801172)
 
 
+
+### Virtual Firewall Tips
+- [Doc: Microsegmentation (L2 proxy ARP) with virtual FortiGate and VMware vCenter](https://docs.fortinet.com/document/fortigate-private-cloud/7.6.0/vmware-esxi-administration-guide/793933/microsegmentation-l2-proxy-arp-with-virtual-fortigate-and-vmware-vcenter)
+- [Doc: Optimizing FortiGate-VM performance](https://docs.fortinet.com/document/fortigate-private-cloud/7.6.0/vmware-esxi-administration-guide/965486/optimizing-fortigate-vm-performance)
+
+
 ### System optimisation
 
 - [Technical Tip: Low-end FortiGate models with RAM ≤ 2GB entering conserve mode due to increased ISDB database](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Low-end-FortiGate-models-with-RAM-2GB-entering/ta-p/295489)

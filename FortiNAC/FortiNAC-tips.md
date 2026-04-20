@@ -16,6 +16,9 @@
   ~~~~
 
 
+### FortiNAC & Entra
+- [Doc: microsoft-entra-id remote groups](https://docs.fortinet.com/document/fortinac-f/7.6.5/microsoft-entra-id-authentication-cookbook/913148/example-remote-group-use-with-user-host-profile)
+
 ### FortiNAC Guest
 - [Technical Tip: FortiNAC Guest Captive Portal configuration and workflow](https://community.fortinet.com/t5/FortiNAC/Technical-Tip-FortiNAC-Guest-Captive-Portal-configuration-and/ta-p/215606)
 
