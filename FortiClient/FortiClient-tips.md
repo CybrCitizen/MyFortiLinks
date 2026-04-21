@@ -2,7 +2,7 @@
 
 
 ### Features
-- [Doc: FortiClient feature comparison](https://docs.fortinet.com/document/forticlient/7.4.6/administration-guide/269675)
+- [Doc: FortiClient feature comparison](https://docs.fortinet.com/document/forticlient/latest/administration-guide/269675)
 
 
 ### Azure use cases
