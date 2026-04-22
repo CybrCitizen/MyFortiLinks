@@ -109,3 +109,7 @@
 - [Technical Tip: How to optimize memory consumption for smaller FortiGates (<200F)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-optimize-memory-consumption-for-smaller/ta-p/192323)
 - [Technical Tip: Memory Optimization Script for FortiGate Desktop Devices](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Memory-Optimization-Script-for-FortiGate-Desktop/ta-p/285711)
 - [Doc: Inspection mode feature comparison](https://docs.fortinet.com/document/fortigate/latest/administration-guide/922096/inspection-mode-feature-comparison)
+
+
+### SDWAN
+- [Technical Tip: Fortinet SD-WAN Remote SLAs](https://community.fortinet.com/fortigate-3/technical-tip-fortinet-sd-wan-remote-slas-197784)
