@@ -113,3 +113,8 @@
 
 ### SDWAN
 - [Technical Tip: Fortinet SD-WAN Remote SLAs](https://community.fortinet.com/fortigate-3/technical-tip-fortinet-sd-wan-remote-slas-197784)
+
+
+### IPS 
+- [AI and ML-based IPS detection](https://docs.fortinet.com/document/fortigate/7.6.6/administration-guide/408891/ai-and-ml-based-ips-detection)
+- [AI and ML-based IPS detection - New feature 7.6.3+](https://docs.fortinet.com/document/fortigate/7.6.3/fortios-release-notes/743723/new-features-or-enhancements#:~:text=enable%20%7C%20disable%7D%0Aend-,1091818,-As%20cyber%20threats)
