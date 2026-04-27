@@ -4,6 +4,7 @@
 
 - [External] [Boll.ch: CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
 - [External] [InfosecMonkey.com: CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
+- [External] [yurisk.info: Fortigate CLI Tips to avoid costly mistakes, save time, and make you more effective](https://yurisk.info/2022/02/21/fortigate-cli-tips-to-avoid-costly-mistakes-save-time-make-you-more-effective/)
 - [My CLI Cheatsheet](./FortiOS-cli.md)
 
 
