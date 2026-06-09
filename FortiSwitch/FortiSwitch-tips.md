@@ -166,6 +166,24 @@
 - [Doc: Support for interoperation with Rapid per-VLAN RSTP (Rapid PVST+ or RPVST+)](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortiswitchos-administration-guide/364618/support-for-interoperation-with-rapid-per-vlan-rstp-rapid-pvst-or-rpvst)
 - [Technical Tip: Number of access VLANs supported with Rapid PVST+ or RPVST+](https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Number-of-access-VLANs-supported-with-Rapid-PVST/ta-p/190386)
 
+
+### Multicast
+- [Technical Tip: Configure IGMP-snooping on FortiSwitch Managed by FortiGate (FortiLink)](https://community.fortinet.com/fortiswitch-36/technical-tip-configure-igmp-snooping-on-fortiswitch-managed-by-fortigate-fortilink-195954)
+- [Configuring IGMP-snooping settings](https://docs.fortinet.com/document/fortiswitch/7.6.7/fortilink-guide/173274)
+- [Technical Tip: How to configure the FortiGate as an IGMP querier on a FortiSwitch topology](https://community.fortinet.com/fortigate-3/technical-tip-how-to-configure-the-fortigate-as-an-igmp-querier-on-a-fortiswitch-topology-147969?tid=147969&fid=3)
+- [Multicast addresses with a destination of 239.x.x.x will flood within the VLAN on 1xx FSW series](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortiswitchos-administration-guide/607214#:~:text=Multicast%20addresses%20with%20a%20destination%20of%20239.x.x.x%20will%20flood%20within%20the%20VLAN)
+-  <details>
+    <summary>To view the learned multicast groups in the CLI</summary>
+        
+        FSW # get switch igmp-snooping group
+    </details>
+-  <details>
+    <summary>To display the list of configured static groups</summary>
+    
+        FSW # get switch igmp-snooping static-group
+    </details>
+
+
 ## Troubleshooting
 
 
