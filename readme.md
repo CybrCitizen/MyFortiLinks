@@ -9,6 +9,7 @@ All content is public only, some are from [Fortinet Documentation website](https
 ## List of Topics
 
 - [FortiGate related](./FortiOS/FortiOS-tips.md)
+- [FortiAnalyzer related](./FortiAnalyzer/FortiAnalyzer-tips.md)
 - [FortiSwitch related](./FortiSwitch/FortiSwitch-tips.md)
 - [FortiNAC related](./FortiNAC/FortiNAC-tips.md)
 - [FortiAuthenticator related](./FortiAuth/FortiAuth-tips.md)
