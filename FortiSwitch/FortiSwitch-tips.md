@@ -19,6 +19,7 @@
 - [Doc: Switch redundancy with MCLAG](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/780635/switch-redundancy-with-mclag)
 - [Doc: Multi-tiered MCLAG with HA-mode FortiGate units](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801194/deploying-mclag-topologies#Three-ti)
 - [Doc: Large Campus Deployment Guide](https://docs.fortinet.com/document/fortiswitch/7.6.0/large-campus-deployment-guide/688440/deployment-overview)
+- [Doc: FortiSwitch Stacking Deployment Guide](https://docs.fortinet.com/document/fortiswitch/7.6.2/fortiswitch-stacking-deployment-guide/383494/introduction)
 
 
 
