@@ -35,7 +35,9 @@
 - [Technical Tip: Hard disk utilization by the FortiGate](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Hard-disk-utilization-by-the-FortiGate/ta-p/195481)
 - [Troubleshooting Tip: FortiGate to FortiAnalyzer connectivity](https://community.fortinet.com/t5/FortiAnalyzer/Troubleshooting-Tip-FortiGate-to-FortiAnalyzer-connectivity/ta-p/191833)
 - [Technical Tip: Null device logging - allow to estimate the logging amount per day easily](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Null-device-logging/ta-p/338478)
-
+- [Technical Tip: Configuring an automation stich to notify users via email whenever an administrator makes changes](https://community.fortinet.com/fortigate-3/technical-tip-configuring-an-automation-stich-to-notify-users-via-email-whenever-an-administrator-makes-changes-185341)
+- [Technical Tip: Using Automation Stitches to produce a summary of Configuration Changes](https://community.fortinet.com/fortigate-3/technical-tip-using-automation-stitches-to-produce-a-summary-of-configuration-changes-104998)
+- [Technical Tip: Log IDs for configuration changes made in the FortiGate](https://community.fortinet.com/fortigate-3/technical-tip-log-ids-for-configuration-changes-made-in-the-fortigate-211926)
 
 ### Access internal ressources from Outside
 
