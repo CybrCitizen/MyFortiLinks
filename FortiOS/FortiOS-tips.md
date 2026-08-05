@@ -56,6 +56,7 @@
 - [Doc: Windows IKEv2 native VPN with user certificate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/726232)
 - [Doc: Trusted Endpoint SSO](https://docs.fortinet.com/document/fortiauthenticator/8.0.0/iam-architecture-guide/713052/trusted-endpoint-sso)
 - [External] [Andrew Travis: IPSec VPN with SAML auth](https://www.andrewtravis.com/blog/ipsec-vpn-with-saml)
+- [Technical Tip: How to activate FortiGuard SMS on Fortigate](https://community.fortinet.com/fortigate-3/technical-tip-how-to-active-fortisms-94112)
 
 ### GenAI & LLM related Features
 
