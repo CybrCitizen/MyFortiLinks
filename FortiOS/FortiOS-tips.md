@@ -15,7 +15,7 @@
 - [Technical Tip: Recommended Release for FortiOS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178)
 - [Technical Tip: Recommended Release for FortiManager and FortiAnalyzer](https://community.fortinet.com/t5/FortiManager/Technical-Tip-Recommended-Release-for-FortiManager-and/ta-p/231910)
 - [Technical Tip: Best practices for firewall policy configuration](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Best-practices-for-firewall-policy-configuration/ta-p/193255)
-
+- [How to upgrade Security Fabric](https://docs.fortinet.com/document/fortigate/latest/fortios-release-notes/936594)
 
 
 ### Management Access
