@@ -60,6 +60,7 @@
 
 ### GenAI & LLM related Features
 
+- [Doc: v8.0 New Feture : Fortigate's FortiAI assistant and CLI Code Lab](https://docs.fortinet.com/document/fortigate/8.0.0/administration-guide/18007/fortiai-assistant-and-cli-code-lab-new)
 - [Technical Guide: Selective control & monitoring of GenAI / LLM application traffic with Fortinet Security Fabric](https://community.fortinet.com/t5/FortiGate/Technical-Guide-Selective-control-amp-monitoring-of-GenAI-LLM/ta-p/405240)
 - [Doc: Application control support for generative AI 7.6.4](https://docs.fortinet.com/document/fortigate/latest/new-features/679448/application-control-support-for-generative-ai-7-6-4)
     <details>
