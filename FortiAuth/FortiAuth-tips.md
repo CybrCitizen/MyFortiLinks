@@ -34,6 +34,7 @@
 
 ### FAC as a Root CA & SCEP Server
 - [Technical Tip: FortiGate Certificate enrollment and renewal using SCEP](https://community.fortinet.com/fortigate-3/technical-tip-fortigate-certificate-enrollment-and-renewal-using-scep-138545)
+- [Doc: Intune Certificate Provisioning with FortiAuthenticator CA](https://docs.fortinet.com/document/fortiauthenticator/8.0.0/examples/481078/intune-certificate-provisioning-with-fortiauthenticator-ca)
 
 
 
