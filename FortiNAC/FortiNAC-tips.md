@@ -1,5 +1,8 @@
 # MyFortiLinks - [FortiNAC](https://docs.fortinet.com/product/fortinac-f/) -  [Back to Root](../readme.md)
 
+### FortiNAC 7.6.7+ - Radius Only Docs - New way of integrating network devices
+- [Technical Tip: A simple example of integrating a Network Device using the RADIUS protocol only](https://community.fortinet.com/fortinac-f-57/technical-tip-a-simple-example-of-integrating-a-network-device-using-the-radius-protocol-only-229630)
+
 ### FortiNAC initial setup
 - [Technical Tip: Comprehensive guide for a simple FortiNAC deployment](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-Comprehensive-guide-for-a-simple-FortiNAC/ta-p/264051)
 - [FortiNAC "Isolation Vlan concepts"](https://docs.fortinet.com/document/fortinac-f/7.2.0/fortinac-deployment-guide/707033/fortinac-isolation-vlans)
