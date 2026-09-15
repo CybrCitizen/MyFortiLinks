@@ -7,3 +7,7 @@
 
 ### Azure use cases
 - [Doc: Autoconnect to IPsec VPN using Entra ID logon session information](https://docs.fortinet.com/document/forticlient/7.4.6/ems-administration-guide/396545/autoconnect-to-ipsec-vpn-using-entra-id-logon-session-information)
+
+
+### EMS Cloud
+- [Technical Tip: How to migrate some on-premise FortiClient EMS configurations to FortiClient EMS Cloud](https://community.fortinet.com/forticlient-4/technical-tip-how-to-migrate-some-on-premise-forticlient-ems-configurations-to-forticlient-ems-cloud-168323)
