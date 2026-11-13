@@ -15,7 +15,8 @@
 - [Technical Tip: Recommended Release for FortiOS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178)
 - [Technical Tip: Recommended Release for FortiManager and FortiAnalyzer](https://community.fortinet.com/t5/FortiManager/Technical-Tip-Recommended-Release-for-FortiManager-and/ta-p/231910)
 - [Technical Tip: Best practices for firewall policy configuration](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Best-practices-for-firewall-policy-configuration/ta-p/193255)
-- [How to upgrade Security Fabric](https://docs.fortinet.com/document/fortigate/latest/fortios-release-notes/936594)
+- [Doc: Virtual patching on the local-in management interface](https://docs.fortinet.com/document/fortigate/7.6.8/administration-guide/393161/virtual-patching-on-the-local-in-management-interface)
+- [Doc: How to upgrade Security Fabric](https://docs.fortinet.com/document/fortigate/latest/fortios-release-notes/936594)
 
 
 ### Management Access
@@ -23,7 +24,6 @@
 - [Doc: FortiOS Hardening](https://docs.fortinet.com/document/fortigate/latest/best-practices/555436/hardening)
 - [Doc: Local-in policies](https://docs.fortinet.com/document/fortigate/latest/administration-guide/363127/local-in-policy)
     Note that since 7.6.1 a [default Local-In](https://docs.fortinet.com/document/fortigate/7.6.6/administration-guide/363127/local-in-policy#Default) is applied blocking known Malicious servers
-- [Doc: Virtual patching on the local-in management interface](https://docs.fortinet.com/document/fortigate/7.6.6/administration-guide/393161/virtual-patching-on-the-local-in-management-interface)
 - [External] [blog.guenay.at: Using Local-in policies to restrict access to Management interface](https://github.com/KevinGuenay/fortigate-baseline/blob/main/baseline.md#use-local-in-policies-to-restrict-access-to-management-services)
 
 
