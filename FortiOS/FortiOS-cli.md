@@ -3,6 +3,14 @@
 ### My CLI CheatSheet
 
 <details>
+<summary>Grep advanced options</summary>
+
+- grep -A and -B : usefull to Check update version of Fortigate Component  
+    - Firmware Virtual Patch (FMWP) signatures :  
+    <code>diagnose autoupdate versions | grep -i FMWP -A 5 -B 1</code>
+</details>
+
+<details>
 <summary>CLI Command Alias</summary>
 
     (FGT)# config system alias
