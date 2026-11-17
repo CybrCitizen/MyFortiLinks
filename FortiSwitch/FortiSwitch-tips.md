@@ -189,13 +189,21 @@
 
 
 ### MAC@
+
+
+
+
  -  <details>
     <summary>Get MAC@ on a Fortiswitch Port (FGT Managed)</summary>
+        
+        Via Mac-Table display: 
+        (FGT)# diagnose switch-controller switch-info mac-table <switch> | grep <portname>
 
+        via Mac-Cache:
         Clear filter:
         (FGT)# diagnose switch-controller mac-cache filter clear
         Create Filter:
-        (FGT)# diagnose switch-controller mac-cache filter intf-name
+        (FGT)# diagnose switch-controller mac-cache filter intf-name <portname>
         Show MAC:
         (FGT)# diagnose switch-controller mac-cache show <switch>
     https://docs.fortinet.com/document/fortigate/7.6.6/cli-reference/218433386/diagnose-switch-controller#diagnose_switch-controller_mac-cache_show_switch-controller
