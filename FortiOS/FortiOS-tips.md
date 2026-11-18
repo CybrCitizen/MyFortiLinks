@@ -31,11 +31,8 @@
 - [Technical Tip: How to check/filter configuration changes logs](https://community.fortinet.com/fortigate-3/technical-tip-how-to-check-filter-configuration-changes-logs-142449)
 
 ### Access internal ressources from Outside
-
 - [Technical Tip: Using Virtual IPs to configure port forwarding](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Using-Virtual-IPs-to-configure-port-forwarding/ta-p/198195)
 - [Technical Tip: How to configure SAML authentication for firewall policy with Virtual IP (VIP)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-SAML-authentication-for-firewall/ta-p/243639)
-
-
 ### VPN Ressources
 - [Technical Tip: FortiGate IPsec VPN resource list](https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-IPsec-VPN-resource-list/ta-p/213560)
 - [Technical Tip: FortiGate SAML authentication resource list](https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-SAML-authentication-resource-list/ta-p/213924)
@@ -49,7 +46,6 @@
 - [Technical Tip: How to activate FortiGuard SMS on Fortigate](https://community.fortinet.com/fortigate-3/technical-tip-how-to-active-fortisms-94112)
 
 ### GenAI & LLM related Features
-
 - [Doc: AI protection features v8.0](https://docs.fortinet.com/document/fortigate/8.0.1/administration-guide/587193/ai-protection)
 - [Doc: v8.0 New Feture : Fortigate's FortiAI assistant and CLI Code Lab](https://docs.fortinet.com/document/fortigate/8.0.0/administration-guide/18007/fortiai-assistant-and-cli-code-lab-new)
 - [Technical Guide: Selective control & monitoring of GenAI / LLM application traffic with Fortinet Security Fabric](https://community.fortinet.com/t5/FortiGate/Technical-Guide-Selective-control-amp-monitoring-of-GenAI-LLM/ta-p/405240)
@@ -63,24 +59,21 @@
     </details>
 - [Technical Tip: Blocking Chat GPT](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Blocking-Chat-GPT/ta-p/255020)
 - [Doc: AI and ML-based IPS detection (7.6.3+)](https://docs.fortinet.com/document/fortigate/7.6.0/new-features/408891/ai-and-ml-based-ips-detection-7-6-3)
+- [FGT local Disk is required to get FortiView AI Dashboard] => https://community.fortinet.com/fortigate-3/technical-tip-benefits-of-fortigates-with-local-disk-storage-space-129973#:~:text=monitors%C2%A0contains-,new%20AI%20widgets,-(FortiView%20AI%20Applications)
 
 ### 802.1x
-
 - [Doc: Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/latest/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
 
 
 ### Fortilink NAC
-
 - [Troubleshooting Tip: FortiSwitch port flap with laptop connected with wifi/wired using FortiClient EMS tags](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-FortiSwitch-port-flap-with-laptop-connected/ta-p/360109)
 
 
 ### FSSO
-
 - [Technical Tip: A detailed guide to FSSO Mobility Agent](https://community.fortinet.com/t5/FortiAuthenticator/Technical-Tip-A-detailed-guide-to-FSSO-Mobility-Agent/ta-p/428712)
 - [Doc: FortiAuthenticator SSOMA for native Microsoft Entra ID joined workstation](https://docs.fortinet.com/document/fortiauthenticator/latest/examples/669124)
 
 ### VDOM
-
 - [Doc: Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/32293/general-configurations)
     <details>
     <summary>Example of VDOM</summary>
