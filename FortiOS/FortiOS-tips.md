@@ -1,40 +1,29 @@
 # MyFortiLinks - [FortiOS](https://docs.fortinet.com/product/fortigate/) -  [Back to Root](../readme.md)
 
 ### FortiGate CheatSheets
-
 - [External] [Boll.ch: CheatSheet FOS 7.6](https://blog.boll.ch/cheatsheet-fortios-v7-6/)
 - [External] [InfosecMonkey.com: CLI Bible](https://infosecmonkey.com/my-fortigate-fortios-cli-bibleish/)
 - [External] [yurisk.info: Fortigate CLI Tips to avoid costly mistakes, save time, and make you more effective](https://yurisk.info/2022/02/21/fortigate-cli-tips-to-avoid-costly-mistakes-save-time-make-you-more-effective/)
 - [My CLI Cheatsheet](./FortiOS-cli.md)
-
-
-
-
 ### Recommended versions & Best practice
-
 - [Technical Tip: Recommended Release for FortiOS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178)
 - [Technical Tip: Recommended Release for FortiManager and FortiAnalyzer](https://community.fortinet.com/t5/FortiManager/Technical-Tip-Recommended-Release-for-FortiManager-and/ta-p/231910)
 - [Technical Tip: Best practices for firewall policy configuration](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Best-practices-for-firewall-policy-configuration/ta-p/193255)
 - [Doc: Virtual patching on the local-in management interface](https://docs.fortinet.com/document/fortigate/7.6.8/administration-guide/393161/virtual-patching-on-the-local-in-management-interface)
 - [Doc: How to upgrade Security Fabric](https://docs.fortinet.com/document/fortigate/latest/fortios-release-notes/936594)
-
-
 ### Management Access
-
 - [Doc: FortiOS Hardening](https://docs.fortinet.com/document/fortigate/latest/best-practices/555436/hardening)
 - [Doc: Local-in policies](https://docs.fortinet.com/document/fortigate/latest/administration-guide/363127/local-in-policy)
     Note that since 7.6.1 a [default Local-In](https://docs.fortinet.com/document/fortigate/7.6.6/administration-guide/363127/local-in-policy#Default) is applied blocking known Malicious servers
 - [External] [blog.guenay.at: Using Local-in policies to restrict access to Management interface](https://github.com/KevinGuenay/fortigate-baseline/blob/main/baseline.md#use-local-in-policies-to-restrict-access-to-management-services)
-
-
-
 ### Logging
-
 - [Technical Tip: How to configure logging to disk on the FortiGate using the GUI or the CLI](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-logging-to-disk-on-the-FortiGate/ta-p/216995)
 - [Technical Tip: How to set the maximum age for logs on disk](https://community.fortinet.com/fortigate-3/technical-tip-how-to-set-the-maximum-age-for-logs-on-disk-95374)
+- [Technical Tip: Fortigate Local Disk Reports](https://community.fortinet.com/fortigate-3/technical-tip-local-reports-99703)
 - [Technical Tip: Hard disk utilization by the FortiGate](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Hard-disk-utilization-by-the-FortiGate/ta-p/195481)
 - [Troubleshooting Tip: FortiGate to FortiAnalyzer connectivity](https://community.fortinet.com/t5/FortiAnalyzer/Troubleshooting-Tip-FortiGate-to-FortiAnalyzer-connectivity/ta-p/191833)
 - [Technical Tip: Null device logging - allow to estimate the logging amount per day easily](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Null-device-logging/ta-p/338478)
+- [Technical Tip: Benefits of FortiGates with local disk storage space](https://community.fortinet.com/fortigate-3/technical-tip-benefits-of-fortigates-with-local-disk-storage-space-129973)
     #### Configuration Changes
 - [Technical Tip: Configuring an automation stich to notify users via email whenever an administrator makes changes](https://community.fortinet.com/fortigate-3/technical-tip-configuring-an-automation-stich-to-notify-users-via-email-whenever-an-administrator-makes-changes-185341)
 - [Technical Tip: Using Automation Stitches to produce a summary of Configuration Changes](https://community.fortinet.com/fortigate-3/technical-tip-using-automation-stitches-to-produce-a-summary-of-configuration-changes-104998)
